@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[callanvalencia]]></title>
+        <description><![CDATA[callanvalencia]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 22 Jul 2016 12:04:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Callanvalencia es una academia de inglés que lleva impartiendo sus clases y cursos desde 1991 en Valencia.</p>]]></description>
+            <link>undefinedcallanvalencia-es-una-academia-de-ingles-que-lleva-impartien/index.html</link>
+            <guid isPermaLink="false">2285d472-63ca-4985-bc68-b11ab366b702</guid>
+            <pubDate>Fri, 22 Jul 2016 12:04:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
